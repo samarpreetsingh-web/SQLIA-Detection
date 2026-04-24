@@ -1,5 +1,5 @@
 # SQLIA-Detection
-# 🛡️ SQL Injection Detection System (ML-Based)
+# 🛡️ SQL Injection Detection System 
 
 ## 📌 Overview
 
